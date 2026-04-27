@@ -61,10 +61,10 @@ Project Structure
 └── README.md
 How to Run
 # Clone the repository
-git clone https://github.com/Virennamo27/pragmatic-nlp.git
+git clone https://github.com/Virennamo27/Pragmatic_Understanding.git
 
 # Navigate to project
-cd pragmatic-nlp
+cd Pragmatic_Understanding
 
 # Install dependencies
 pip install -r requirements.txt
